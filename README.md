@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=dumidu1998&label=Visitors&color=9acd32&style=for-the-badge"> 
+  <img src="https://komarev.com/ghpvc/?username=Hasantha96&label=Visitors&color=9acd32&style=for-the-badge"> 
 </p>
 
 <h3 align="left"> 📱 Connect with me</h3>
