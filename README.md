@@ -14,12 +14,12 @@
 
 <!--
 ## GitHub Analytics Visualization 🔎
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dumidu1998&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hasantha96&theme=monokai)
 -->
 
 
 <!--
-**dumidu1998/dumidu1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hasantha96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
