@@ -12,10 +12,10 @@
 ### GitHub Stat 🔍
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Hasantha96)](https://github.com/LordDashMe/github-contribution-stats/)
 
-<!--
+
 ## GitHub Analytics Visualization 🔎
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hasantha96&theme=monokai)
--->
+
 
 
 <!--
